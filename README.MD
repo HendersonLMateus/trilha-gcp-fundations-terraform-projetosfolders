@@ -4,4 +4,4 @@
 ![Organizacional_Grupos](Organizacional_Grupos.jpg)
 
 - Organização dos grupos
-![Organização dos grupos](Organizacional_Grupos.jpg)
+![Organização dos grupos](organizacao_grupos.jpg)
