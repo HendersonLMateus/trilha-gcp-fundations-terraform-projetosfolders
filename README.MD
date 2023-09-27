@@ -15,3 +15,7 @@ Caso houvessem mais, o entendimento seria aumentar o orçamento.
 Por fim, foram adicionados alertas a cada 25%, deixando assim os responsaveis mais situados sobre a situação do orçamento.
 
 ![Orçamento](orçamento-gcp.jpg)
+
+# Exportação de Faturamento
+
+![Faturamento](faturamento-gcp.jpg)
