@@ -24,3 +24,8 @@ Por fim, foram adicionados alertas a cada 25%, deixando assim os responsaveis ma
 
 ![Dashboard](Dashboard.jpg)
 
+# Cloud Shell
+
+![app](app.jpg)
+![app2](app2.jpg)
+
