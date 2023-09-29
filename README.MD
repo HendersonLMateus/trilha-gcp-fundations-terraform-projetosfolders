@@ -19,3 +19,8 @@ Por fim, foram adicionados alertas a cada 25%, deixando assim os responsaveis ma
 # Exportação de Faturamento
 
 ![Faturamento](faturamento-gcp.jpg)
+
+# Personalização de Dashboard
+
+![Dashboard](Dashboard.jpg)
+
